@@ -50,3 +50,19 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#### our custom gitignore stuff for this lab   ######
+
+
+# directories
+/tests-out/
+
+# binary
+reverse
+
+# txts to test stuff on
+
+input.txt
+output.txt
+
+# scripts?
