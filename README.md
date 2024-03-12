@@ -1,3 +1,9 @@
+# INTEGRANTES
+
+ARLEY SANTIAGO TANGARIFE
+FELIPE RODRIGUEZ ANGEL
+JUAN DAVID ZEA ACEVEDO
+
 
 # Práctica 1 de laboratorio - Introducción al lenguaje C
 
